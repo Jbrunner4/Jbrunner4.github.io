@@ -1,0 +1,35 @@
+body{
+  background: tan;
+  font-size: 14
+}
+
+p{
+  font-family: sans-serif;
+}
+
+h1 {
+  color: aqua;
+}
+
+h2 {
+  color: purple;
+}
+
+h3 {
+  color: pink;
+}
+
+.heading{
+  font-weight: bold;
+}
+
+#important {
+  color: red;
+  font-size: 200%
+
+}
+
+a {
+  color: black;
+  
+}
