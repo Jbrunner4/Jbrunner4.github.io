@@ -18,11 +18,13 @@ h1 {
 }
 
 A:link {
-
+     text- decoration: none;
+     color: #fc0;
 }
 
 A:hover {
-
+     color: white;
+     
 }
 
 a:visited {
