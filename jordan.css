@@ -1,5 +1,5 @@
 body {
-     background: ##A4A4A4;
+     background: #423E3B;
        color: #ffffff;
 }
     
@@ -8,12 +8,12 @@ body {
     margin-left: auto;
     margin-right: auto;
     width: 800px;
-    background: #444;
+    background: #86612D;
     
 }
 
 h1 {
-    background: #f0f5f5;
+    background: #AF8D5D;
          
 }
 
@@ -34,7 +34,7 @@ a:visited {
 }
 
 #home, #page2 {
-    background:#A9A9CA
+    background:#D9B487
      padding: 40px;
      margin: 10px;
 
@@ -46,10 +46,14 @@ h3 {
 
 img {
     width: 300px;
+     float: right;
+     padding: 20px;
 }
 
 img.left {
-
+     width: 320px;
+     float: left;
+     padding: 20px;
 }
 
 #footer {
