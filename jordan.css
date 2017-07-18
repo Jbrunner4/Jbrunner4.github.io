@@ -1,5 +1,6 @@
 body {
-    
+     background: #A9A9CA;
+       color: #ffffff;
 }
     
 #contents {
@@ -7,6 +8,8 @@ body {
     margin-left: auto;
     margin-right: auto;
     width: 800px;
+    background: #444;
+    
 }
 
 h1 {
