@@ -13,7 +13,8 @@ body {
 }
 
 h1 {
-
+    background: #9999ff;
+         
 }
 
 A:link {
@@ -33,6 +34,8 @@ a:visited {
 }
 
 #home, #page2 {
+     padding: 40px;
+     margin: 10px;
 
 }
 
