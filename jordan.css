@@ -1,6 +1,6 @@
 body {
-     background: #423E3B;
-       color: #ffffff;
+     background-color: #423E3B;
+       
 }
     
 #contents {
@@ -8,11 +8,12 @@ body {
     margin-left: auto;
     margin-right: auto;
     width: 800px;
-    background: #966B34;
+    background-color: #966B34;
+     color: #ffffff;
 }
 
 h1 {
-     background: #DAB88B;
+     background-color: #DAB88B;
          
 }
 
@@ -35,7 +36,7 @@ a:visited {
 }
 
 #home, #page2 {
-    background: #D9B487;
+    background-color: #D9B487;
      padding: 40px;
      margin: 10px;
 
