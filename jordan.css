@@ -62,7 +62,8 @@ img.left {
 }
 
 #footer {
-     
+    margin-left: auto;
+    padding-bottom: 20px;
 }
 
 #clearer {
