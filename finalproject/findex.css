@@ -7,7 +7,7 @@ body {
     margin-top: 50px;
     margin-left: auto;
     margin-right: auto;
-    width: 800px;
+    width: 900px;
     background: #5a5757;
      color: #ffffff;
      font-family: 'Lato', sans-serif;
@@ -65,7 +65,7 @@ h3 {
 }
 
 img#me{
-    width: 700px;
+    width: 800px;
      margin-left: auto;
      margin-right: auto;
      
