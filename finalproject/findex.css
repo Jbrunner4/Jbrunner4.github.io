@@ -1,5 +1,5 @@
 body {
-     background-color: #B39A7C;
+     background-color: #a52a2a;
        
 }
     
@@ -8,7 +8,7 @@ body {
     margin-left: auto;
     margin-right: auto;
     width: 800px;
-    background: url(https://s-media-cache-ak0.pinimg.com/736x/4b/4b/a2/4b4ba20314e2f055a89712f7c63e3348--leather-texture-brown-leather.jpg);
+    background: #5a5757;
      color: #ffffff;
      font-family: 'Lato', sans-serif;
      padding: 15px;
@@ -38,7 +38,7 @@ a:visited {
 }
 
 #home, #page2 {
-    background-color: rgba(122, 97, 67, .75);
+    background-color: rgba(00, 00, 00, .75);
      padding-left: 40px;
      padding-right: 40px;
      padding-top: 40px;
@@ -47,7 +47,7 @@ a:visited {
 }
 
 h3 #backgroundandeducation {
-     background-color: black;
+     background-color: #a52a2a;
      font-size: 25px;
      width: 300px;
      float: left;
