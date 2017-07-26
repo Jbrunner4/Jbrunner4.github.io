@@ -64,6 +64,25 @@ h3 {
      color: gray;
      
 }
+#clubs {
+     background-color: white;
+     font-size: 25px;
+     width: 300px;
+     float: left;
+     padding: 20px;
+     border: solid #a52a2a 10px;
+}
+
+h3 {
+     color: black;
+     
+}
+
+ #clubsentence {
+     color: gray;
+     
+}
+
 
 img#me{
     width: 900px;
