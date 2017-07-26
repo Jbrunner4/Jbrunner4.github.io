@@ -46,16 +46,22 @@ a:visited {
      margin: 10px;
 }
 
-h3 #backgroundandeducation {
-     background-color: #a52a2a;
+#backgroundandeducation {
+     background-color: white;
      font-size: 25px;
      width: 300px;
      float: left;
      padding: 20px;
 }
 
+h3 {
+     color: black;
+     
+}
+
+
 p #baesentence {
- 
+     color: #504e4e;
      
 }
 
