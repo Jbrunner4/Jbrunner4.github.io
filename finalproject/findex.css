@@ -47,7 +47,11 @@ a:visited {
 }
 
 h3 #backgroundandeducation {
-     
+     background-color: black;
+     font-size: 25px;
+     width: 300px;
+     float: left;
+     padding: 20px;
 }
 
 p #baesentence {
