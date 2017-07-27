@@ -211,4 +211,20 @@ h2 {
      color: gray;
      
 }
+#contactme {
+     background-color: white;
+     font-size: 25px;
+     padding: 20px;
+     margin-bottom: 15px;
+     border: solid #b45543 10px;
+}
 
+h2 {
+     color: black;
+     
+}
+
+ #contactinfo {
+     color: gray;
+
+}
