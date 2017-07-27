@@ -1,5 +1,6 @@
 body {
-     background-color: #a52a2a;
+     background-color: #b45543;
+    
        
 }
     
@@ -7,7 +8,7 @@ body {
     margin-top: 50px;
     margin-left: auto;
     margin-right: auto;
-    width: 1200px;
+    width: 1100px;
     background: #5a5757;
      color: #ffffff;
      font-family: 'Lato', sans-serif;
@@ -56,7 +57,7 @@ a:visited {
      font-size: 25px;
      width: 300px;
      padding: 20px;
-     border: solid #a52a2a 10px;
+     border: solid #b45543 10px;
 }
 
 h3 {
@@ -73,7 +74,7 @@ h3 {
      font-size: 25px;
      width: 300px;
      padding: 20px;
-     border: solid #a52a2a 10px;
+     border: solid #b45543 10px;
 }
 
 h3 {
@@ -91,7 +92,7 @@ h3 {
      font-size: 25px;
      width: 300px;
      padding: 20px;
-     border: solid #a52a2a 10px;
+     border: solid #b45543 10px;
 }
 
 h3 {
@@ -115,7 +116,7 @@ h3 {
 
 
 img#me{
-    width: 1100px;
+    width: 1000px;
      margin-left: auto;
      margin-right: auto;
      
